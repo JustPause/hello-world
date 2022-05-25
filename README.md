@@ -9,3 +9,7 @@ I am Justinas. I come from a Europe country Lithuania, I love the look of post S
 I like to study new skills like photography, software development, 3d modeling, game development, movie making, digital art, server maintenance and Linux. Specifically **arch** Linux. 
 
 I suck at the usual school system, almost past it, but I like to stay home and learn skills on my one. I can call my self a *Jack of all trades, master of none*. And that's me programmer wanna be.
+
+
+---
+
