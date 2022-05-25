@@ -4,7 +4,7 @@ This will be the place where I learn the fundamentals for GitHub and finish the 
 ---
 
 # Biography
-I am ==Justinas==. I come from a Europe country Lithuania, I love the look of post Soviet country, something about the depressive look of the *chruščiovkes* ant the mood that it gives to me. Motivation to improve the country.
+I am Justinas. I come from a Europe country Lithuania, I love the look of post Soviet country, something about the depressive look of the *chruščiovkes* ant the mood that it gives to me. Motivation to improve the country.
 
 I like to study new skills like photography, software development, 3d modeling, game development, movie making, digital art, server maintenance and Linux. Specifically **arch** Linux. 
 
